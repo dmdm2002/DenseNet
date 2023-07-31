@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-from Model.Modules.Layers import BottleNeck, Transition
+from Modules.Layers import BottleNeck, Transition
 
 
 # DenseNet
